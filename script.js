@@ -92,49 +92,49 @@ document.addEventListener('DOMContentLoaded', checkMidnightReset);
 const questionPool = [
     // Group 1: Questions 1 - 5
     // Question 1:
-    {
-      question: "Where did the USSR detonate the largest nuclear bomb in history on October 30, 1961?",
-      answer: [73.8567, 54.5842],
-      name: "Novaya Zemlya, Russia",
-      image: "images/tsar_bomba.jpg",
-      info: "On October 30, 1961, the Tsar Bomba, the largest nuclear bomb ever tested, was detonated by the USSR over Novaya Zemlya. Its 50-megaton blast was the most powerful in history"
-    },
+{
+  "question": "Where was the first McDonald's restaurant located?",
+  "answer": [33.9471, -118.1182],
+  "name": "San Bernardino, California, USA",
+  "image": "images/mcdonalds_first.jpg",
+  "info": "The first McDonald's opened in 1940 in San Bernardino, California, by Richard and Maurice McDonald, pioneering the fast-food model with the 'Speedee Service System.'"
+},
   
     // Question 2:
     {
-      question: "Where was the Chicxulub crater, linked to the extinction of the dinosaurs, discovered?",
-      answer: [21.408, -89.916],
-      name: "Yucatán Peninsula, Mexico",
-      image: "images/chicxulub_crater.jpg",
-      info: "The Chicxulub crater in Mexico’s Yucatán Peninsula, formed 66 million years ago, is linked to the mass extinction of dinosaurs."
-    },
+  "question": "Where exactly was Ernesto 'Che' Guevara executed?",
+  "answer": [-18.8314, -64.2164],
+  "name": "La Higuera, Vallegrande, Bolivia",
+  "image": "images/che_guevara_execution.jpg",
+  "info": "Che Guevara was executed on October 9, 1967, in La Higuera, Bolivia, after being captured with CIA support. Nazi war criminal Klaus Barbie played a role in the operation."
+},
   
     // Question 3:
     {
-      question: "Where was the first successful cloning of a mammal achieved?",
-      answer: [55.86585823892504, -3.1979615986249077],
-      name: "Roslin Institute, Scotland",
-      image: "images/dolly.jpg",
-      info: "In 1996, scientists at the Roslin Institute cloned Dolly the sheep, the first mammal cloned from an adult cell, advancing genetic research."
-    },
+  "question": "Where did the Hindenburg disaster occur?",
+  "answer": [40.0336, -74.3535],
+  "name": "Naval Air Station Lakehurst, New Jersey, USA",
+  "image": "images/hindenburg_disaster.jpg",
+  "info": "On May 6, 1937, the German airship Hindenburg caught fire and crashed while attempting to land at Naval Air Station Lakehurst, killing 36 people."
+},
   
     // Question 4:
     {
-      question: "Where was the first ever permanent photograph captured?",
-      answer: [46.72695457188975, 4.85722132944805],
-      name: "Saint-Loup-de-Varennes, France",
-      image: "images/first_photograph.jpg",
-      info: "In 1826, Joseph Nicéphore Niépce took the first permanent photograph in Saint-Loup-de-Varennes, shaping photography history."
-    },
+  "question": "Where was the first telephone call made?",
+  "answer": [42.3593, -71.0574],
+  "name": "Bell's Workshop, Boston, Massachusetts, USA",
+  "image": "images/first_telephone_call.jpg",
+  "info": "The first telephone call was made by Alexander Graham Bell on March 10, 1876, from his workshop in Boston, Massachusetts, when he famously said, 'Mr. Watson, come here, I want to see you.'"
+},
   
     // Question 5:
     {
-      question: "Where exactly was the Rosetta Stone discovered?",
-      answer: [31.3960, 30.4170],
-      name: "Fort Julien, Rosetta, Egypt",
-      image: "images/rosetta_stone.jpg",
-      info: "Discovered in 1799 near Rosetta, Egypt, the Rosetta Stone unlocked ancient Egyptian writing."
-    },
+  "question": "Where was the first telephone call made?",
+  "answer": [42.3593, -71.0574],
+  "name": "Bell's Workshop, Boston, Massachusetts, USA",
+  "image": "images/first_telephone_call.jpg",
+  "info": "On March 10, 1876, Alexander Graham Bell made the first telephone call from his Boston workshop, saying, 'Mr. Watson, come here, I want to see you.'"
+},
   
     // Group 2: Questions 6 - 10
     // Question 6:
