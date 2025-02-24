@@ -129,12 +129,12 @@ const questionPool = [
   
     // Question 5:
     {
-  "question": "Where was the first telephone call made?",
-  "answer": [42.3593, -71.0574],
-  "name": "Bell's Workshop, Boston, Massachusetts, USA",
-  "image": "images/first_telephone_call.jpg",
-  "info": "On March 10, 1876, Alexander Graham Bell made the first telephone call from his Boston workshop, saying, 'Mr. Watson, come here, I want to see you.'"
-},
+        "question": "Where was the first European settlement in the Americas?",
+        "answer": [19.8908, -71.0569],
+        "name": "La Isabela, Dominican Republic",
+        "image": "images/la_isabela.jpg",
+        "info": "La Isabela, founded by Christopher Columbus in 1493, was the first European settlement in the Americas, located on the northern coast of the Dominican Republic."
+      },
   
     // Group 2: Questions 6 - 10
     // Question 6:
