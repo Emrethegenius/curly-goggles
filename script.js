@@ -140,7 +140,7 @@ const questionPool = [
     // Question 6:
     {
   "question": "Where did the deadliest volcanic eruption of the 20th century bury entire towns in 1902?",
-  "answer": [14.7331, -61.1750],
+  "answer": [14.8075, -61.1675],
   "name": "Mount Pelée, Martinique",
   "image": "images/mount_pelee_eruption.jpg",
   "info": "The eruption of Mount Pelée destroyed Saint-Pierre, killing nearly all of its 30,000 residents."
@@ -149,7 +149,7 @@ const questionPool = [
     // Question 7:
 {
   "question": "Where did U.S. Air Force member Aaron Bushnell self-immolate in 2024 as a protest against the Gaza conflict?",
-  "answer": [38.9226, -77.0489],
+  "answer": [38.94268371477785, -77.0677980882309],
   "name": "Israeli Embassy, Washington, D.C., USA",
   "image": "images/aaron_bushnell_protest.jpg",
   "info": "On February 25, 2024, Aaron Bushnell set himself on fire outside the Israeli Embassy in Washington, D.C., protesting the treatment of Palestinians in Gaza."
@@ -158,7 +158,7 @@ const questionPool = [
     // Question 8:
     {
   "question": "Where did a monumental expedition in 1960 set the record for the deepest manned dive in history?",
-  "answer": [11.4000, 165.5291],
+  "answer": [11.373333, 142.591667],
   "name": "Challenger Deep, Mariana Trench, Pacific Ocean",
   "image": "images/challenger_deep.jpg",
   "info": "Jacques Piccard and Don Walsh descended to the deepest part of the ocean, reaching a depth of approximately 10,911 meters."
@@ -167,7 +167,7 @@ const questionPool = [
     // Question 9:
     {
   "question": "Where did D.B. Cooper hijack a commercial airplane in 1971, leading to a landmark case in aviation law?",
-  "answer": [47.4500, -122.3088],
+  "answer": [47.448889, -122.309444],
   "name": "Seattle-Tacoma International Airport, USA",
   "image": "images/db_cooper_hijacking.jpg",
   "info": "D.B. Cooper famously hijacked a plane here, parachuted out with a ransom, and vanished without a trace."
@@ -176,7 +176,7 @@ const questionPool = [
     // Question 10:
     {
   "question": "Where is the smallest population of any self-governing territory located?",
-  "answer": [-25.0673, -130.0910],
+  "answer": [-25.066667, -130.1],
   "name": "Pitcairn Island",
   "image": "images/pitcairn_population.jpg",
   "info": "Pitcairn is home to fewer than 100 residents, making it one of the least populated territories in the world."
