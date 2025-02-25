@@ -148,7 +148,7 @@ const questionPool = [
   
     // Question 7:
 {
-  "question": "Where did U.S. Air Force member Aaron Bushnell self-immolate in 2024 as a protest against the Gaza conflict?",
+  "question": "Where did U.S. Air Force member Aaron Bushnell self-immolate in 2024 as a protest against the Gaza Genocide?",
   "answer": [38.94268371477785, -77.0677980882309],
   "name": "Israeli Embassy, Washington, D.C., USA",
   "image": "images/aaron_bushnell_protest.jpg",
