@@ -147,12 +147,12 @@ const questionPool = [
 },
   
     // Question 7:
-    {
-  "question": "Where was the first successful French attempt to establish a colony in the South Pacific, in 1840?",
-  "answer": [-17.5516, -149.5585],
-  "name": "Tahiti, French Polynesia",
-  "image": "images/tahiti_colony.jpg",
-  "info": "France established its first permanent settlement in French Polynesia here in 1840, leading to its eventual colonization."
+{
+  "question": "Where did U.S. Air Force member Aaron Bushnell self-immolate in 2024 as a protest against the Gaza conflict?",
+  "answer": [38.9226, -77.0489],
+  "name": "Israeli Embassy, Washington, D.C., USA",
+  "image": "images/aaron_bushnell_protest.jpg",
+  "info": "On February 25, 2024, Aaron Bushnell set himself on fire outside the Israeli Embassy in Washington, D.C., protesting the treatment of Palestinians in Gaza."
 },
   
     // Question 8:
