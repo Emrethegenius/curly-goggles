@@ -139,48 +139,48 @@ const questionPool = [
     // Group 2: Questions 6 - 10
     // Question 6:
     {
-      question: "In 1914, a political assassination set off a world-changing conflict. Where did it occur?",
-      answer: [43.85833474991576, 18.42894146627073],
-      name: "Sarajevo, Bosnia and Herzegovina",
-      image: "images/sarajevo_assassination.jpg",
-      info: "The assassination of Archduke Franz Ferdinand in Sarajevo on June 28, 1914, triggered the events leading to World War I."
-    },
+  "question": "Where did the deadliest volcanic eruption of the 20th century bury entire towns in 1902?",
+  "answer": [14.7331, -61.1750],
+  "name": "Mount Pelée, Martinique",
+  "image": "images/mount_pelee_eruption.jpg",
+  "info": "The eruption of Mount Pelée destroyed Saint-Pierre, killing nearly all of its 30,000 residents."
+},
   
     // Question 7:
     {
-      question: "In 1815, a battle in Europe marked the final defeat of Napoleon Bonaparte. Can you pinpoint the exact coordinates of the battlefield?",
-      answer: [50.678668268134196, 4.411857217238671],
-      name: "Waterloo, Belgium",
-      image: "images/waterloo.jpg",
-      info: "The Battle of Waterloo, fought on June 18, 1815, ended Napoleon's rule and marked the end of the Napoleonic Wars."
-    },
+  "question": "Where was the first successful French attempt to establish a colony in the South Pacific, in 1840?",
+  "answer": [-17.5516, -149.5585],
+  "name": "Tahiti, French Polynesia",
+  "image": "images/tahiti_colony.jpg",
+  "info": "France established its first permanent settlement in French Polynesia here in 1840, leading to its eventual colonization."
+},
   
     // Question 8:
     {
-      question: "A 1984 chemical disaster exposed 500,000+ people to toxic gas, causing thousands of deaths. Where did it occur?",
-      answer: [23.280299141020528, 77.40985172024006],
-      name: "Bhopal, India",
-      image: "images/bhopal.jpg",
-      info: "The Bhopal disaster, caused by a gas leak at a Union Carbide pesticide plant, is considered one of the worst industrial accidents in history."
-    },
+  "question": "Where did a monumental expedition in 1960 set the record for the deepest manned dive in history?",
+  "answer": [11.4000, 165.5291],
+  "name": "Challenger Deep, Mariana Trench, Pacific Ocean",
+  "image": "images/challenger_deep.jpg",
+  "info": "Jacques Piccard and Don Walsh descended to the deepest part of the ocean, reaching a depth of approximately 10,911 meters."
+},
   
     // Question 9:
     {
-      question: "A 1969 music festival, a counterculture landmark with legendary performances, took place at which location?",
-      answer: [41.70017623204302, -74.87996781357901],
-      name: "Bethel, New York, USA",
-      image: "images/woodstock.jpg",
-      info: "The Woodstock Festival, held in August 1969, became a symbol of the 1960s counterculture movement and featured performances by legendary artists."
-    },
+  "question": "Where did D.B. Cooper hijack a commercial airplane in 1971, leading to a landmark case in aviation law?",
+  "answer": [47.4500, -122.3088],
+  "name": "Seattle-Tacoma International Airport, USA",
+  "image": "images/db_cooper_hijacking.jpg",
+  "info": "D.B. Cooper famously hijacked a plane here, parachuted out with a ransom, and vanished without a trace."
+},
   
     // Question 10:
     {
-      question: "Julian Assange was arrested in 2019 after years of asylum at an embassy, ending a high-profile standoff. Where did this happen?",
-      answer: [51.50130873871635, -0.17266394049243808],
-      name: "Ecuadorian Embassy, London, UK",
-      image: "images/ecuadorian_embassy.jpg",
-      info: "On April 11, 2019, WikiLeaks founder Julian Assange was arrested by British authorities at the Ecuadorian Embassy in London after Ecuador withdrew his asylum status."
-    },
+  "question": "Where is the smallest population of any self-governing territory located?",
+  "answer": [-25.0673, -130.0910],
+  "name": "Pitcairn Island",
+  "image": "images/pitcairn_population.jpg",
+  "info": "Pitcairn is home to fewer than 100 residents, making it one of the least populated territories in the world."
+},
   
     // Group 3: Questions 11 - 15
     // Question 11:
