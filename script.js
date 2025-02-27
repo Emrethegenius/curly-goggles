@@ -231,58 +231,58 @@ const questionPool = [
     // Group 4: Questions 16 - 20
     // Question 16:
     {
-      question: "One of the most controversial psychology experiments took place at this university in 1971, testing the effects of perceived power. Where was it?",
-      answer: [37.42863, -122.172996],
-      name: "Stanford University, Palo Alto, USA",
-      image: "images/stanford_prison.jpg",
-      info: "In 1971, the Stanford Prison Experiment, led by Philip Zimbardo, studied power dynamics but was halted over ethical concerns."
-    },
+  "question": "Once described as the most densely populated place on Earth, this area was a lawless enclave until its demolition in the 1990s. Can you identify where it stood?",
+  "answer": [22.332222, 114.190278],
+  "name": "Kowloon Walled City",
+  "image": "images/kowloon_walled_city.jpg",
+  "info": "The Kowloon Walled City was a densely packed, ungoverned area, infamous for its chaotic structure, criminal activity, and overcrowding before it was demolished in 1993."
+},
   
     // Question 17:
     {
-      question: "The first film ever screened for a paying audience was shown at this location in 1895. Can you pinpoint it?",
-      answer: [48.870278, 2.329444],
-      name: "Salon Indien du Grand Café, Paris, France",
-      image: "images/lumiere_screening.jpg",
-      info: "On December 28, 1895, the Lumière brothers held the first commercial film screening at the Salon Indien du Grand Café in Paris, marking the birth of cinema."
-    },
+  "question": "Where did a break-in occur in 1972, leading to the political scandal that ultimately forced a U.S. president to resign?",
+  "answer": [38.89896487488606, -77.05553242194483],
+  "name": "Watergate Complex, Washington, D.C., USA",
+  "image": "images/watergate_scandal.jpg",
+  "info": "On June 17, 1972, five men were caught breaking into the Democratic National Committee offices at the Watergate Complex, setting off the Watergate scandal and resulting in the resignation of President Richard Nixon."
+},
   
     // Question 18:
     {
-     question: "A famous fugitive was found hiding in a secret compound in 2011, leading to a major military operation. What are the coordinates of this location?",
-     answer: [34.169333, 73.242444],
-     name: "Osama bin Laden's Compound, Abbottabad, Pakistan",
-     image: "images/bin_laden_compound.jpg",
-     info: "On May 2, 2011, U.S. Navy SEALs conducted Operation Neptune Spear, resulting in the death of Osama bin Laden at a compound in Abbottabad, Pakistan."
-    },
+  "question": "Which site, later immortalized by Picasso, was devastated in 1937 during one of history’s first aerial bombardments targeting civilians?",
+  "answer": [43.313889, -2.678333],
+  "name": "Guernica Bombing Site, Spain",
+  "image": "images/guernica_bombing.jpg",
+  "info": "On April 26, 1937, Nazi Germany’s Condor Legion bombed this town during the Spanish Civil War, inspiring Picasso’s famous anti-war painting *Guernica*."
+},
   
     // Question 19:
     {
-      question: "A secret Cold War facility, built beneath the ice and powered by a nuclear reactor, was meant to house ballistic missiles. Where was this ambitious project located?",
-      answer: [77.1667, -61.1333],
-      name: "Camp Century, Greenland",
-      image: "images/camp_century.jpg",
-      info: "Camp Century was a U.S. military base buried under the Greenland ice sheet, part of a top-secret plan called Project Iceworm to deploy nuclear missiles."
-    },
+  "question": "Where did the Concorde supersonic jet crash in 2000, ending the era of commercial supersonic travel?",
+  "answer": [48.985556, 2.472222],
+  "name": "Gonesse, France",
+  "image": "images/concorde_crash.jpg",
+  "info": "On July 25, 2000, Air France Flight 4590 crashed shortly after takeoff from Charles de Gaulle Airport due to tire debris, leading to the retirement of the Concorde fleet."
+},
   
     // Question 20:
     {
-      question: "A mysterious radio signal, believed by some to be of extraterrestrial origin, was detected at this observatory in 1977. Can you identify where the signal was received?",
-      answer: [40.2511, -83.0492],
-      name: "Big Ear Radio Observatory, Ohio, USA",
-      image: "images/big_ear.jpg",
-      info: "The 'Wow! signal,' a strong and unexplained radio signal from deep space, was detected by the Big Ear Observatory in Ohio in 1977."
-    },
+  "question": "Where did a high-altitude U.S. spy plane get shot down in 1960, escalating Cold War tensions?",
+  "answer": [56.726389, 60.986111],
+  "name": "U-2 Crash Site, near Degtyarsk, Soviet Union (now Russia)",
+  "image": "images/u2_incident.jpg",
+  "info": "On May 1, 1960, a Soviet missile shot down a U.S. U-2 spy plane piloted by Francis Gary Powers near Degtyarsk, exposing American reconnaissance operations over the USSR."
+},
   
     // Group 5: Questions 21 - 25
 // Question 21:
 {
-    question: "A sculpture containing an encrypted message that has remained unsolved for decades stands at this exact location. Can you find it?",
-    answer: [38.95227, -77.14573],
-    name: "Kryptos Sculpture, CIA Headquarters, Virginia, USA",
-    image: "images/kryptos.jpg",
-    info: "The Kryptos sculpture at CIA headquarters contains four encoded messages—one of which remains unsolved despite extensive cryptographic efforts."
-  },
+  "question": "Which site, later immortalized by Picasso, was devastated in 1937 during one of history’s first aerial bombardments targeting civilians?",
+  "answer": [43.3133, -2.6803],
+  "name": "Guernica Bombing Site, Spain",
+  "image": "images/guernica_bombing.jpg",
+  "info": "On April 26, 1937, Nazi Germany’s Condor Legion bombed this town during the Spanish Civil War, inspiring Picasso’s famous anti-war painting *Guernica*."
+},
   
   // Question 22:
   {
