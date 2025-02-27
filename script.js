@@ -185,48 +185,48 @@ const questionPool = [
     // Group 3: Questions 11 - 15
     // Question 11:
     {
-     question: "Considered the world's oldest temple complex, this site predates Stonehenge by millennia and reshapes views on early civilization. Where is it located?",
-     answer: [37.22360917058424, 38.92284021054165],
-     name: "Göbekli Tepe, Şanlıurfa, Turkey",
-     image: "images/gobeklitepe.jpg",
-     info: "Göbekli Tepe, dating to around 9600 BCE, reshaped our view of early societies, revealing complex rituals before settled agriculture."
-     },
+  "question": "Which location became the center of a highly publicized hunger strike in 1981 that resulted in the deaths of ten men seeking political recognition?",
+  "answer": [54.48707269241484, -6.1112061857047575],
+  "name": "HM Prison Maze, Northern Ireland",
+  "image": "images/irish_hunger_strike.jpg",
+  "info": "In 1981, Irish republican prisoners at HM Prison Maze went on hunger strike for political status. Ten, including Bobby Sands, died, drawing global attention."
+},
   
     // Question 12:
     {
-      question: "A failed invasion attempt was launched here in 1961 by CIA-trained exiles in an effort to overthrow a government. Where did this take place?",
-      answer: [22.176129883568084, -81.04344422700221],
-      name: "Bay of Pigs, Cuba",
-      image: "images/bay_of_pigs.jpg",
-      info: "On April 17, 1961, the U.S.-backed Bay of Pigs invasion attempted to overthrow Fidel Castro’s government but ended in failure."
-    },
+  "question": "Where did Usain Bolt set the 100m world record in 2009, a feat yet to be surpassed?",
+  "answer": [52.5146, 13.2394],
+  "name": "Olympiastadion, Berlin, Germany",
+  "image": "images/usain_bolt_100m.jpg",
+  "info": "Usain Bolt set the 100m world record of 9.58 seconds at the 2009 World Championships in Berlin, the fastest time ever recorded."
+},
   
     // Question 13:
     {
-      question: "The 1972 World Chess Championship, a historic Cold War showdown between Bobby Fischer and Boris Spassky, was held in this city. Where was it?",
-      answer: [64.14064248617701, -21.874510561681276],
-      name: "Laugardalshöll Arena, Reykjavik, Iceland",
-      image: "images/fischer_spassky.jpg",
-      info: "The 1972 World Chess Championship between Bobby Fischer and Boris Spassky in Reykjavik, Iceland, was a major Cold War-era event."
-    },
+  "question": "Which location became infamous in 1947 after reports of a mysterious crash sparked decades of speculation about extraterrestrial life?",
+  "answer": [33.950278, -105.314167],
+  "name": "Crash Site Near Corona, New Mexico, USA",
+  "image": "images/ufo_crash_site.jpg",
+  "info": "A 1947 crash in the New Mexico desert became one of the most famous UFO-related incidents, inspiring conspiracy theories and ongoing debate about extraterrestrial encounters."
+},
   
     // Question 14:
     {
-      question: "A mysterious monolith appeared in 2020 at this remote desert location, sparking global curiosity. Can you pinpoint it on the map?",
-      answer: [38.34370568767272, -109.66608671164448],
-      name: "Utah Monolith Site, USA",
-      image: "images/utah_monolith.jpg",
-      info: "In late 2020, a strange metallic monolith was discovered in the Utah desert, causing widespread speculation before it mysteriously disappeared."
-    },
+  "question": "Which Greek city was home to a giant statue that once stood at its harbor entrance, considered one of the Seven Wonders of the Ancient World?",
+  "answer": [36.4512, 28.2244],
+  "name": "Rhodes, Greece",
+  "image": "images/ancient_statue.jpg",
+  "info": "An enormous statue, built to celebrate the victory over Cyprus in 305 BC, stood at the harbor entrance of Rhodes. It was toppled by an earthquake in 226 BC, and its remnants were eventually sold off as scrap metal."
+},
   
     // Question 15:
     {
-      question: "A massive explosion in 2020 devastated this city's port, causing widespread destruction and loss of life. Where did this happen?",
-      answer: [33.901389, 35.519167],
-      name: "Beirut Port, Lebanon",
-      image: "images/beirut_explosion.jpg",
-      info: "On August 4, 2020, a warehouse storing ammonium nitrate exploded at the Beirut Port, causing one of the largest non-nuclear blasts in history."
-    },
+  "question": "Where was the wreck of the Titanic discovered in 1985, over 70 years after the ship sank?",
+  "answer": [41.7269, -49.9481],
+  "name": "North Atlantic Ocean, off the coast of Newfoundland, Canada",
+  "image": "images/titanic_wreck.jpg",
+  "info": "In 1985, the wreck of the RMS Titanic was discovered by oceanographer Robert Ballard, lying about 12,500 feet beneath the surface of the North Atlantic."
+},
   
     // Group 4: Questions 16 - 20
     // Question 16:
