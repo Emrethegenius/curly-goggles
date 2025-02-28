@@ -277,48 +277,48 @@ const questionPool = [
     // Group 5: Questions 21 - 25
 // Question 21:
 {
-  "question": "Which site, later immortalized by Picasso, was devastated in 1937 during one of history’s first aerial bombardments targeting civilians?",
-  "answer": [43.3133, -2.6803],
-  "name": "Guernica Bombing Site, Spain",
-  "image": "images/guernica_bombing.jpg",
-  "info": "On April 26, 1937, Nazi Germany’s Condor Legion bombed this town during the Spanish Civil War, inspiring Picasso’s famous anti-war painting *Guernica*."
+  "question": "In 2004, a massive undersea earthquake triggered one of the deadliest tsunamis in recorded history, devastating coastal areas. Can you locate the epicenter?",
+  "answer": [3.316, 95.854],
+  "name": "2004 Indian Ocean Earthquake Epicenter, Near Ache",
+  "image": "images/indian_ocean_tsunami.jpg",
+  "info": "A magnitude 9.1 earthquake struck off the coast of Sumatra, triggering a tsunami that killed over 230,000 people across multiple countries."
 },
   
   // Question 22:
   {
-    question: "The world's longest-running experiment, started in 1927 to observe the flow of a mysterious substance, is located at this university. Can you find the precise spot?",
-    answer: [-27.4975, 153.0137],
-    name: "University of Queensland, Brisbane, Australia",
-    image: "images/pitch_drop.jpg",
-    info: "The Pitch Drop Experiment at the University of Queensland has been continuously running since 1927, demonstrating the viscosity of pitch."
-  },
+  "question": "In 1901, the first transatlantic wireless signal was received at this remote coastal point, changing global communication forever. Can you locate it?",
+  "answer": [50.02900408579307, -5.264024985385264],
+  "name": "Poldhu Wireless Station, Wales",
+  "image": "images/marconi_signal.jpg",
+  "info": "Guglielmo Marconi successfully received the first transatlantic radio signal at Poldhu, proving wireless communication over vast distances was possible."
+},
   
   // Question 23:
   {
-    question: "One of the last uncontacted tribes on Earth fiercely protects this island, attacking outsiders on sight. Can you locate their exact home?",
-    answer: [11.56204405612773, 92.24468100339757],
-    name: "North Sentinel Island, Andaman Islands, India",
-    image: "images/north_sentinel.jpg",
-    info: "North Sentinel Island is home to the Sentinelese, one of the last uncontacted tribes on Earth, who reject all outside contact."
-  },
+  "question": "A luxury cruise liner, which sank in 2012, was the largest ship ever raised from the ocean floor. Can you find its final resting place before salvage?",
+  "answer": [42.365278, 10.921667],
+  "name": "Isola del Giglio, Italy",
+  "image": "images/costa_concordia.jpg",
+  "info": "The *Costa Concordia* ran aground near an Italian island in 2012, leading to 32 deaths. It was later refloated and dismantled in the largest-ever salvage operation."
+},
   
   // Question 24:
   {
-    question: "Engineers over 2,000 years ago built a device at this location capable of calculating astronomical positions, long before modern computers. Where was it discovered?",
-    answer: [35.8897, 23.3078],
-    name: "Antikythera Shipwreck, Greece",
-    image: "images/antikythera.jpg",
-    info: "The Antikythera Mechanism, discovered in an ancient shipwreck, is considered the world's first analog computer, built by Greek engineers around 100 BCE."
-  },
+  "question": "This ancient underground city, capable of housing thousands, was rediscovered by accident when a resident broke through a wall. Can you locate it?",
+  "answer": [38.3735, 34.7351],
+  "name": "Derinkuyu Underground City, Turkey",
+  "image": "images/derinkuyu_underground.jpg",
+  "info": "Derinkuyu, carved beneath the earth, was a vast multi-level underground city used as a refuge from invasions in ancient times."
+},
   
   // Question 25:
   {
-    question: "This small settlement, accessible only by a long sea journey, is the most remote permanently inhabited place on Earth. Can you locate it?",
-    answer: [-37.066667, -12.316667],
-    name: "Edinburgh of the Seven Seas, Tristan da Cunha",
-    image: "images/tristan_da_cunha.jpg",
-    info: "Tristan da Cunha is the most isolated inhabited island, located in the South Atlantic, with a population of fewer than 300 people."
-  },
+  "question": "Discovered by accident in 1940, this cave, known for its ancient artwork, was featured in a Werner Herzog documentary. Can you identify its location?",
+  "answer": [45.053611, 1.17],
+  "name": "Montignac, France",
+  "image": "images/lascaux_cave.jpg",
+  "info": "The Cave of Lascaux, located in France, is home to some of the world’s most famous Paleolithic cave paintings, which were featured in Herzog’s 2010 documentary *Cave of Forgotten Dreams*."
+},
   
   // Group 6: Questions 26 - 30
   // Question 26:
