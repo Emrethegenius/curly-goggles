@@ -355,7 +355,7 @@ const questionPool = [
   "name": "Statue of Unity",  
   "image": "images/statue_of_unity.jpg",  
   "info": "Standing at 182 meters, the Statue of Unity in India honors Sardar Vallabhbhai Patel, a key figure in the country's independence and unification."  
-}
+}, 
   
   // Question 30:
   {
