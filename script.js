@@ -323,48 +323,48 @@ const questionPool = [
   // Group 6: Questions 26 - 30
   // Question 26:
   {
-    question: "At this location, a natural gas field has been burning continuously for over 50 years, earning it the nickname 'The Door to Hell.' Can you locate it?",
-    answer: [40.2525, 58.4396],
-    name: "Darvaza Gas Crater, Turkmenistan",
-    image: "images/darvaza.jpg",
-    info: "The Darvaza Gas Crater has been burning since 1971, after a failed Soviet drilling operation caused the ground to collapse."
-  },
+  "question": "This immense temple complex, originally dedicated to the Hindu god Vishnu, later became a center for Buddhist worship. Can you locate it?",
+  "answer": [13.4125, 103.866667],  
+  "name": "Angkor Wat",  
+  "image": "images/angkor_wat.jpg",  
+  "info": "Angkor Wat, built in the early 12th century by King Suryavarman II, is one of the largest religious monuments in the world and a symbol of Cambodia’s cultural heritage."
+},
   
   // Question 27:
   {
-    question: "A high-security vault at this location stores the world’s most important seeds, safeguarding global agriculture against catastrophe. Where is it?",
-    answer: [78.23603819612708, 15.494725938944827],
-    name: "Svalbard Global Seed Vault, Norway",
-    image: "images/seed_vault.jpg",
-    info: "The Svalbard Global Seed Vault, buried deep in an Arctic mountain, is designed to protect biodiversity in case of a global disaster."
-  },
+  "question": "During a U.S.-backed coup in 1973, the country's democratically elected leader made his final stand here, refusing to surrender. Can you find this site?",
+  "answer": [-33.44238082484133, -70.65394282149734],  
+  "name": "La Moneda Palace",  
+  "image": "images/la_moneda_palace.jpg",  
+  "info": "On September 11, 1973, Salvador Allende, Chile’s democratically elected president, gave his final speech from La Moneda Palace as it was bombed during a coup linked to Operation Condor. He died defending his government against the military takeover."  
+},
   
   // Question 28:
   {
-    question: "At this unique location, you can physically touch two separate continents at the same time, as the Earth’s crust is slowly pulling them apart. Can you find it?",
-    answer: [64.25441620709742, -21.117882898151148],
-    name: "Silfra Fissure, Iceland",
-    image: "images/silfra.jpg",
-    info: "Silfra Fissure is a rift between the North American and Eurasian tectonic plates, where divers can swim between two continents."
-  },
+  "question": "Intended as a symbol of national pride, this towering structure remains largely empty decades after construction began. Can you locate it?",
+  "answer": [39.036439578846604, 125.73079661606694],
+  "name": "Ryugyong Hotel",
+  "image": "images/ryugyong_hotel.jpg",
+  "info": "The Ryugyong Hotel in Pyongyang, started in 1987, remains unfinished despite efforts to complete the 105-story skyscraper."
+},
   
   // Question 29:
   {
-    question: "This is the location where Vincent van Gogh painted his famous work *Starry Night*, while in the asylum during 1889. Can you pinpoint the site?",
-    answer: [43.7766337116391, 4.83339010423285],
-    name: "Saint-Paul-de-Mausole Asylum, Saint-Rémy-de-Provence, France",
-    image: "images/starry_night_van_gogh.jpg",
-    info: "Van Gogh created his masterpiece *Starry Night* during his time at the Saint-Paul-de-Mausole Asylum in Saint-Rémy-de-Provence, France."
-  },
+  "question": "Towering above the landscape, this colossal monument is the tallest statue on Earth. Can you locate it?",
+  "answer": [21.8380, 73.7191],  
+  "name": "Statue of Unity",  
+  "image": "images/statue_of_unity.jpg",  
+  "info": "Standing at 182 meters, the Statue of Unity in India honors Sardar Vallabhbhai Patel, a key figure in the country's independence and unification."  
+}
   
   // Question 30:
   {
-    question: "In 1969, The Beatles gave an unplanned rooftop performance at a famous location, marking a milestone in music history. Where did this happen?",
-    answer: [51.510417, -0.139722],
-    name: "Apple Corps Ltd. Headquarters, London, UK",
-    image: "images/beatles_rooftop.jpg",
-    info: "This is the location where The Beatles held their final live performance, an impromptu concert on a rooftop in London."
-  },
+  "question": "At this venue, the film industry’s most prestigious awards have been handed out for decades. Can you pinpoint this iconic location?",
+  "answer": [34.1027573233757, -118.34043183931465],  
+  "name": "Dolby Theatre",  
+  "image": "images/dolby_theatre.jpg",  
+  "info": "Since 2002, the Dolby Theatre in Los Angeles has hosted the annual Academy Awards, where the biggest names in cinema gather to celebrate achievements in film."  
+},
   
     // Group 7: Questions 31 - 35
     // Question 31:
