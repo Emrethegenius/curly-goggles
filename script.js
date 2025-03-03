@@ -369,48 +369,48 @@ const questionPool = [
     // Group 7: Questions 31 - 35
     // Question 31:
     {
-        question: "A secluded presidential retreat, where a landmark Middle East peace agreement was negotiated in 1978, lies in a forested mountainous region. What are its coordinates?",
-        answer: [39.64748827674952, -77.46496436991295],
-        name: "Camp David, Maryland, USA",
-        image: "images/camp_david.jpg",
-        info: "The Camp David Accords, brokered by Jimmy Carter, led to a peace treaty between Egypt and Israel."
-      },
+  "question": "At this location in 1794, the man who led the most intense period of political purges was arrested and executed, marking the fall of his influence. Can you pinpoint where it happened?",  
+  "answer": [48.865633, 2.321236],  
+  "name": "Place de la Révolution, Paris, France",  
+  "image": "images/robespierre_execution.jpg",  
+  "info": "On July 28, 1794, Maximilien Robespierre, known for his role in orchestrating mass executions, was arrested and executed by guillotine at Place de la Révolution in Paris, ending his reign of power."  
+},
       
       // Question 32:
       {
-        question: "A vast underground army of terracotta soldiers, crafted for a 3rd-century BCE emperor, guards a hidden tomb. What are the coordinates of this archaeological marvel?",
-        answer: [34.38424811270382, 109.27974707372914],
-        name: "Terracotta Army, Xi'an, China",
-        image: "images/terracotta.jpg",
-        info: "Discovered in 1974, the Terracotta Army was created to protect China's first emperor, Qin Shi Huang, in the afterlife."
-      },
+  "question": "After drifting for an astonishing 438 days, the longest-known castaway finally made landfall at this remote location in 2014. Can you pinpoint where his journey ended?",  
+  "answer": [4.620641464060111, 168.77004985661048],  
+  "name": "Tile Islet, Ebon Atoll, Marshall Islands",  
+  "image": "images/castaway_landfall.jpg",  
+  "info": "José Salvador Alvarenga, a fisherman from El Salvador, was lost at sea for 438 days before making landfall on Tile Islet in the Marshall Islands in 2014. He survived on fish, birds, and rainwater after drifting over 10,000 km across the Pacific Ocean."  
+},
       
       // Question 33:
       {
-        question: "In 1928, a serendipitous discovery in a modest laboratory led to the development of a life-saving antibiotic. Can you locate the exact coordinates of this discovery site?",
-        answer: [51.517222, -0.173056],
-        name: "StMary's Hospital, London, UK",
-        image: "images/scientific_discovery.jpg",
-        info: "At this laboratory, Alexander Fleming discovered penicillin, revolutionizing medicine and earning him the Nobel Prize in 1945."
-      },
+  "question": "At this remote settlement in 1978, a leader’s final orders led to a mass suicide, claiming over 900 lives in one of history’s deadliest cult tragedies. Can you locate this site?",  
+  "answer": [7.689444, -59.95],  
+  "name": "Jonestown, Guyana",  
+  "image": "images/jonestown_massacre.jpg",  
+  "info": "On November 18, 1978, over 900 members of the Peoples Temple, led by Jim Jones, died in a mass murder-suicide at Jonestown, Guyana. Many were forced to drink poisoned Flavor Aid in a tragedy that shocked the world."  
+},
       
       // Question 34:
       {
-        question: "The stadium hosting the first FIFA World Cup final in 1930 witnessed a host nation victory. What are its coordinates?",
-        answer: [-34.894744300827945, -56.153273281057544],
-        name: "Estadio Centenario, Montevideo, Uruguay",
-        image: "images/estadio_centenario.jpg",
-        info: "Uruguay defeated Argentina 4-2 in the inaugural World Cup final, held in front of 93,000 spectators."
-      },
+  "question": "At this lakeside location in 1871, a journalist finally found a long-lost explorer and greeted him with the now-famous words: 'Dr. Livingstone, I presume?' Can you pinpoint this historic meeting place?",  
+  "answer": [-4.920021122456501, 29.674622235711507],  
+  "name": "Livingstone Memorial, Ujiji, Tanzania",  
+  "image": "images/livingstone_memorial.jpg",  
+  "info": "On November 10, 1871, Henry Morton Stanley met Dr. David Livingstone near the shores of Lake Tanganyika in Ujiji. The site, now marked by the Livingstone Memorial, commemorates one of history’s most famous encounters."  
+},
       
       // Question 35:
       {
-        question: "In 1816, a famous writer conceived one of Gothic fiction's most enduring works during a summer stay at a lakeside villa. Where was it?",
-        answer: [46.22038440083739, 6.183875570533945],
-        name: "Lake Geneva, Switzerland",
-        image: "images/frankenstein_creation.jpg",
-        info: "At this location near Lake Geneva, Mary Shelley began writing Frankenstein during the 'Year Without a Summer,' shaping Gothic literature and inspiring horror and sci-fi."
-      }
+  "question": "At this precise location, an ancient dream of cutting through land to connect two seas was finally realized in 1893. Can you pinpoint where this engineering marvel is located?",
+  "answer": [37.934722, 22.983889],
+  "name": "Corinth Canal, Greece",
+  "image": "images/corinth_canal.jpg",
+  "info": "The Corinth Canal, completed in 1893, cuts through the narrow Isthmus of Corinth, linking the Aegean and Ionian Seas. Though envisioned by ancient rulers, it wasn’t finished until modern engineering made it possible."
+}
   ];
   
   const imageCreditsPool = [
