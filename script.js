@@ -93,186 +93,185 @@ const questionPool = [
     // Group 1: Questions 1 - 5
     // Question 1:
 {
-  "question": "Where was the first McDonald's restaurant located?",
-  "answer": [33.9471, -118.1182],
-  "name": "San Bernardino, California, USA",
-  "image": "images/mcdonalds_first.jpg",
-  "info": "The first McDonald's opened in 1940 in San Bernardino, California, by Richard and Maurice McDonald, pioneering the fast-food model with the 'Speedee Service System.'"
+  "question": "Where did the Nord Stream pipeline explosions occur in 2022, leading to international controversy over who was responsible?",
+  "answer": [54.876667, 15.41],
+  "name": "Bornholm, Baltic Sea",
+  "image": "images/nord_stream.jpg",
+  "info": "On September 26, 2022, mysterious underwater blasts ruptured the Nord Stream pipelines near Bornholm, sparking global debate over sabotage."
 },
   
     // Question 2:
-    {
-  "question": "Where exactly was Ernesto 'Che' Guevara executed?",
-  "answer": [-18.8314, -64.2164],
-  "name": "La Higuera, Vallegrande, Bolivia",
-  "image": "images/che_guevara_execution.jpg",
-  "info": "Che Guevara was executed on October 9, 1967, in La Higuera, Bolivia, after being captured with CIA support. Nazi war criminal Klaus Barbie played a role in the operation."
+{
+  "question": "On July 8, 2022, a former Prime Minister was shot and killed with a homemade gun while delivering a campaign speech. Where did the assassination take place?",
+  "answer": [34.694056, 135.783944],
+  "name": "Nara, Japan – Assassination Site",
+  "image": "images/shinzo_abe_assassination.jpg",
+  "info": "On July 8, 2022, former Japanese Prime Minister Shinzo Abe was assassinated during a public campaign event in Nara, Japan, by an assailant using a homemade firearm."
 },
   
     // Question 3:
     {
-  "question": "Where did the Hindenburg disaster occur?",
-  "answer": [40.0336, -74.3535],
-  "name": "Naval Air Station Lakehurst, New Jersey, USA",
-  "image": "images/hindenburg_disaster.jpg",
-  "info": "On May 6, 1937, the German airship Hindenburg caught fire and crashed while attempting to land at Naval Air Station Lakehurst, killing 36 people."
+  "question": "In 1849, the first recorded ascent of this iconic mountain, the highest point of any European Union country, took place. Where did the climb happen?",
+  "answer": [45.832778, 6.865],
+  "name": "Mont Blanc, France/Italy border",
+  "image": "images/mont_blanc_ascent.jpg",
+  "info": "On August 8, 1849, the first successful ascent of Mont Blanc was made by Jacques Balmat and Dr. Michel-Gabriel Paccard, marking a milestone in mountaineering."
 },
   
     // Question 4:
-    {
-  "question": "Where was the first telephone call made?",
-  "answer": [42.3593, -71.0574],
-  "name": "Bell's Workshop, Boston, Massachusetts, USA",
-  "image": "images/first_telephone_call.jpg",
-  "info": "The first telephone call was made by Alexander Graham Bell on March 10, 1876, from his workshop in Boston, Massachusetts, when he famously said, 'Mr. Watson, come here, I want to see you.'"
+{
+  "question": "In 1928, this famous motion picture was released, marking the first feature-length sound film. Where did its premiere occur?",
+  "answer": [34.10211993274641, -118.34102904037215],
+  "name": "Grauman's Chinese Theatre, Hollywood, USA",
+  "image": "images/the_jazz_singer_premiere.jpg",
+  "info": "On October 6, 1927, *The Jazz Singer* premiered at Grauman's Chinese Theatre in Hollywood, California, revolutionizing the film industry with its synchronized sound."
 },
   
     // Question 5:
-    {
-        "question": "Where was the first European settlement in the Americas?",
-        "answer": [19.8908, -71.0569],
-        "name": "La Isabela, Dominican Republic",
-        "image": "images/la_isabela.jpg",
-        "info": "La Isabela, founded by Christopher Columbus in 1493, was the first European settlement in the Americas, located on the northern coast of the Dominican Republic."
-      },
-  
-    // Group 2: Questions 6 - 10
+{
+  "question": "In 1978, a Soviet geological survey team stumbled upon a family living in isolation deep in the Siberian wilderness, completely unaware of the outside world for about 40 years. Can you pinpoint where this discovery took place?",
+  "answer": [51.46087, 88.42713],
+  "name": "Lykov Family Discovery Site, Siberia, Russia",
+  "image": "images/lykov_family_discovery.jpg",
+  "info": "The Lykov family, who had been living in complete isolation since the 1930s, were discovered in 1978 by a Soviet geological team, unaware of major historical events for about 40 years."
+},
+ // Group 2: Questions 6 - 10
     // Question 6:
     {
-  "question": "Where did the deadliest volcanic eruption of the 20th century bury entire towns in 1902?",
-  "answer": [14.8075, -61.1675],
-  "name": "Mount Pelée, Martinique",
-  "image": "images/mount_pelee_eruption.jpg",
-  "info": "The eruption of Mount Pelée destroyed Saint-Pierre, killing nearly all of its 30,000 residents."
-},
+        "question": "A famous explorer was killed in 1521 at this location, after attempting to force local tribes into submission. Where did he meet his end?",
+        "answer": [10.3, 123.966667],
+        "name": "Mactan Island, Philippines",
+        "image": "images/mactan.jpg",
+        "info": "Ferdinand Magellan was killed on Mactan Island by the forces of Lapu-Lapu, a local chieftain resisting Spanish colonization."
+      },
   
     // Question 7:
 {
-  "question": "Where did U.S. Air Force member Aaron Bushnell self-immolate in 2024 as a protest against the Gaza Genocide?",
-  "answer": [38.94268371477785, -77.0677980882309],
-  "name": "Israeli Embassy, Washington, D.C., USA",
-  "image": "images/aaron_bushnell_protest.jpg",
-  "info": "On February 25, 2024, Aaron Bushnell set himself on fire outside the Israeli Embassy in Washington, D.C., protesting the treatment of Palestinians in Gaza."
-},
+        "question": "One of the most famous prison breaks in history happened here in 1962, when three men vanished into the sea. Where did they escape from?",
+        "answer": [37.8270, -122.4220],
+        "name": "Alcatraz Island, USA",
+        "image": "images/alcatraz.jpg",
+        "info": "The 1962 escape from Alcatraz remains one of the greatest unsolved mysteries, as the prisoners’ fate is still unknown."
+      },
   
     // Question 8:
     {
-  "question": "Where did a monumental expedition in 1960 set the record for the deepest manned dive in history?",
-  "answer": [11.373333, 142.591667],
-  "name": "Challenger Deep, Mariana Trench, Pacific Ocean",
-  "image": "images/challenger_deep.jpg",
-  "info": "Jacques Piccard and Don Walsh descended to the deepest part of the ocean, reaching a depth of approximately 10,911 meters."
-},
+        "question": "One of the world’s most valuable lost treasures, looted in 1204, is believed to be hidden beneath this European landmark. Where is it?",
+        "answer": [41.0086, 28.9802],
+        "name": "Hagia Sophia, Istanbul, Turkey",
+        "image": "images/hagia_sophia.jpg",
+        "info": "During the Fourth Crusade, the legendary treasures of Constantinople were taken from the Hagia Sophia. Some believe relics still remain hidden beneath the building."
+      },
   
     // Question 9:
     {
-  "question": "Where did D.B. Cooper hijack a commercial airplane in 1971, leading to a landmark case in aviation law?",
-  "answer": [47.448889, -122.309444],
-  "name": "Seattle-Tacoma International Airport, USA",
-  "image": "images/db_cooper_hijacking.jpg",
-  "info": "D.B. Cooper famously hijacked a plane here, parachuted out with a ransom, and vanished without a trace."
-},
+        "question": "The deadliest earthquake of the 21st century struck this city in 2010, leveling buildings and causing massive casualties. Where was the epicenter?",
+        "answer": [18.46, -72.53],
+        "name": "2010 Haiti Earthquake Epicenter, Haiti",
+        "image": "images/haiti_earthquake.jpg",
+        "info": "The 7.0 magnitude earthquake devastated Haiti’s capital, killing over 200,000 people and leaving millions homeless. Recovery efforts continue to this day."
+      },
   
     // Question 10:
     {
-  "question": "Where is the smallest population of any self-governing territory located?",
-  "answer": [-25.066667, -130.1],
-  "name": "Pitcairn Island",
-  "image": "images/pitcairn_population.jpg",
-  "info": "Pitcairn is home to fewer than 100 residents, making it one of the least populated territories in the world."
-},
+        "question": "The largest accidental oil spill in history occurred here in 2010, devastating marine life and coastal economies. Where did the explosion take place?",
+        "answer": [28.738056, -88.366111],
+        "name": "Deepwater Horizon Spill Site, Gulf of Mexico",
+        "image": "images/deepwater_horizon.jpg",
+        "info": "The Deepwater Horizon explosion caused millions of barrels of oil to spill into the ocean, leading to one of the worst environmental disasters in history."
+      },
   
     // Group 3: Questions 11 - 15
     // Question 11:
-    {
-  "question": "Which location became the center of a highly publicized hunger strike in 1981 that resulted in the deaths of ten men seeking political recognition?",
-  "answer": [54.48707269241484, -6.1112061857047575],
-  "name": "HM Prison Maze, Northern Ireland",
-  "image": "images/irish_hunger_strike.jpg",
-  "info": "In 1981, Irish republican prisoners at HM Prison Maze went on hunger strike for political status. Ten, including Bobby Sands, died, drawing global attention."
-},
+{
+        "question": "A fire ignited in an underground coal seam here in 1962 and has been burning ever since, forcing the town's near-total abandonment. Where is this?",
+        "answer": [40.801111, -76.3375],
+        "name": "Centralia Mine Fire, Pennsylvania, USA",
+        "image": "images/centralia_fire.jpg",
+        "info": "The Centralia mine fire has been smoldering for over six decades, causing roads to crack and toxic gases to seep into the air, leading to the town’s evacuation."
+      },
   
     // Question 12:
     {
-  "question": "Where did Usain Bolt set the 100m world record in 2009, a feat yet to be surpassed?",
-  "answer": [52.5146, 13.2394],
-  "name": "Olympiastadion, Berlin, Germany",
-  "image": "images/usain_bolt_100m.jpg",
-  "info": "Usain Bolt set the 100m world record of 9.58 seconds at the 2009 World Championships in Berlin, the fastest time ever recorded."
-},
+        "question": "The only wild monkeys in Europe roam freely in a unique location. Can you pinpoint where they are found?",
+        "answer": [36.124472, -5.343111],
+        "name": "Rock of Gibraltar, Gibraltar",
+        "image": "images/gibraltar_monkeys.jpg",
+        "info": "The Barbary apes of Gibraltar are the last wild monkey population in Europe and are a key tourist attraction. Their presence is deeply connected to the region's history and culture, particularly on the Rock of Gibraltar."
+      },
   
     // Question 13:
     {
-  "question": "Which location became infamous in 1947 after reports of a mysterious crash sparked decades of speculation about extraterrestrial life?",
-  "answer": [33.950278, -105.314167],
-  "name": "Crash Site Near Corona, New Mexico, USA",
-  "image": "images/ufo_crash_site.jpg",
-  "info": "A 1947 crash in the New Mexico desert became one of the most famous UFO-related incidents, inspiring conspiracy theories and ongoing debate about extraterrestrial encounters."
-},
+        "question": "Once a thriving Arctic settlement, this abandoned Soviet mining town is now a frozen relic of the Cold War, its buildings preserved in the permafrost. Where is it?",
+        "answer": [78.656111, 16.325],
+        "name": "Pyramiden, Svalbard",
+        "image": "images/pyramiden.jpg",
+        "info": "Pyramiden, a Soviet mining town on Svalbard, was abandoned in 1998, leaving behind eerily preserved buildings and a Lenin statue in the Arctic."
+      },
   
     // Question 14:
     {
-  "question": "Which Greek city was home to a giant statue that once stood at its harbor entrance, considered one of the Seven Wonders of the Ancient World?",
-  "answer": [36.4512, 28.2244],
-  "name": "Rhodes, Greece",
-  "image": "images/ancient_statue.jpg",
-  "info": "An enormous statue, built to celebrate the victory over Cyprus in 305 BC, stood at the harbor entrance of Rhodes. It was toppled by an earthquake in 226 BC, and its remnants were eventually sold off as scrap metal."
-},
+        "question": "In 2015, a widely publicized archaeological dig beneath a city car park uncovered what many believed to be the lost remains of a feared medieval ruler. Where was this discovery made?",
+        "answer": [52.634025, -1.136295],
+        "name": "Richard III Burial Site, UK",
+        "image": "images/richard_iii_grave.jpg",
+        "info": "Archaeologists confirmed the remains found beneath a Leicester car park belonged to King Richard III, solving a historical mystery over 500 years old."
+      },
   
     // Question 15:
     {
-  "question": "Where was the wreck of the Titanic discovered in 1985, over 70 years after the ship sank?",
-  "answer": [41.7269, -49.9481],
-  "name": "North Atlantic Ocean, off the coast of Newfoundland, Canada",
-  "image": "images/titanic_wreck.jpg",
-  "info": "In 1985, the wreck of the RMS Titanic was discovered by oceanographer Robert Ballard, lying about 12,500 feet beneath the surface of the North Atlantic."
-},
+        "question": "In 1979, an unexplained explosion was detected by satellites in remote ocean waters, with speculation of a covert nuclear test. Where did this incident occur?",
+        "answer": [-47, 40],
+        "name": "Vela Incident Site, Indian Ocean",
+        "image": "images/vela_incident.jpg",
+        "info": "Detected by an American Vela satellite; Origin of this Incident remains debated, but most independent researchers now believe it was a secret nuclear test, likely conducted jointly by South Africa and Israel."
+      },
   
     // Group 4: Questions 16 - 20
     // Question 16:
     {
-  "question": "Once described as the most densely populated place on Earth, this area was a lawless enclave until its demolition in the 1990s. Can you identify where it stood?",
-  "answer": [22.332222, 114.190278],
-  "name": "Kowloon Walled City",
-  "image": "images/kowloon_walled_city.jpg",
-  "info": "The Kowloon Walled City was a densely packed, ungoverned area, infamous for its chaotic structure, criminal activity, and overcrowding before it was demolished in 1993."
-},
+        "question": "In 1943, the worst civilian maritime disaster in history occurred when a torpedo struck a ship carrying thousands of prisoners. Where did this tragedy take place?",
+        "answer": [55.049, 17.654],
+        "name": "Sinking of MV Wilhelm Gustloff, Baltic Sea",
+        "image": "images/wilhelm_gustloff.jpg",
+        "info": "The MV Wilhelm Gustloff, carrying German refugees and military personnel, was sunk by a Soviet submarine, resulting in over 9,000 deaths—more than the Titanic and Lusitania combined."
+      },
   
     // Question 17:
     {
-  "question": "Where did a break-in occur in 1972, leading to the political scandal that ultimately forced a U.S. president to resign?",
-  "answer": [38.89896487488606, -77.05553242194483],
-  "name": "Watergate Complex, Washington, D.C., USA",
-  "image": "images/watergate_scandal.jpg",
-  "info": "On June 17, 1972, five men were caught breaking into the Democratic National Committee offices at the Watergate Complex, setting off the Watergate scandal and resulting in the resignation of President Richard Nixon."
-},
+        "question": "In 1821, the remains of a deposed ruler were laid to rest on a remote volcanic island thousands of miles from his homeland. Where was his tomb?",
+        "answer": [-15.959217, -5.698206],
+        "name": "Napoleon’s Tomb, St. Helena",
+        "image": "images/napoleon_tomb.jpg",
+        "info": "Napoleon Bonaparte was buried on the island of St. Helena, where he spent his final years in exile before his remains were later returned to France."
+      },
   
     // Question 18:
     {
-  "question": "Which site, later immortalized by Picasso, was devastated in 1937 during one of history’s first aerial bombardments targeting civilians?",
-  "answer": [43.313889, -2.678333],
-  "name": "Guernica Bombing Site, Spain",
-  "image": "images/guernica_bombing.jpg",
-  "info": "On April 26, 1937, Nazi Germany’s Condor Legion bombed this town during the Spanish Civil War, inspiring Picasso’s famous anti-war painting *Guernica*."
-},
+        "question": "This ancient site, home to massive earthworks visible from the sky, was once the center of a vast and powerful Native American civilization. Where is it?",
+        "answer": [38.653889, -90.064444],
+        "name": "Cahokia Mounds, Illinois, USA",
+        "image": "images/cahokia_mounds.jpg",
+        "info": "The Cahokia Mounds near St. Louis are a UNESCO World Heritage site, containing the remains of the most sophisticated prehistoric Native American civilization north of Mexico."
+      },
   
     // Question 19:
     {
-  "question": "Where did the Concorde supersonic jet crash in 2000, ending the era of commercial supersonic travel?",
-  "answer": [48.985556, 2.472222],
-  "name": "Gonesse, France",
-  "image": "images/concorde_crash.jpg",
-  "info": "On July 25, 2000, Air France Flight 4590 crashed shortly after takeoff from Charles de Gaulle Airport due to tire debris, leading to the retirement of the Concorde fleet."
-},
+        "question": "Known as the 'Gateway to the Sun,' this ancient structure marks the entrance to a sacred Inca city. Where is it?",
+        "answer": [13.169759, -72.533949],
+        "name": "Inti Punku, Peru",
+        "image": "images/inti_punku.jpg",
+        "info": "Inti Punku, or the 'Sun Gate,' is located near Machu Picchu and was the entrance to the ancient Incan city, offering views of the stunning sacred valley."
+      },
   
     // Question 20:
     {
-  "question": "Where did a high-altitude U.S. spy plane get shot down in 1960, escalating Cold War tensions?",
-  "answer": [56.726389, 60.986111],
-  "name": "U-2 Crash Site, near Degtyarsk, Soviet Union (now Russia)",
-  "image": "images/u2_incident.jpg",
-  "info": "On May 1, 1960, a Soviet missile shot down a U.S. U-2 spy plane piloted by Francis Gary Powers near Degtyarsk, exposing American reconnaissance operations over the USSR."
-},
+        "question": "A single night of bombing in 1945 caused one of the deadliest firestorms in history, devastating this city. Where did this attack take place?",
+        "answer": [35.683333, 139.766667],
+        "name": "Tokyo Firebombing, Japan",
+        "image": "images/tokyo_firebombing.jpg",
+        "info": "The U.S. firebombing of Tokyo on March 9-10, 1945, killed over 100,000 people, making it one of the deadliest air raids in history."
+      },
   
     // Group 5: Questions 21 - 25
 // Question 21:
